@@ -104,15 +104,14 @@
   }]
 }, {
   "projectUrl": "",
-  "provider": "melxin",
-  "name": "Unethical Butler",
+  "provider": "momo",
+  "name": "Unethical Butler2",
   "description": "One-Clicks construction butler dialogs",
-  "id": "unethicalbutler-plugin",
+  "id": "unethicalbutler2-plugin",
   "releases": [{
-    "date": "2023-03-25",
-    "sha512sum": "7A88684B6762B17B7DC1C278E99C6017AFFFEDC86C2D2A176042C30E829DDB50061F777F198B5573DB3D05B755F198E9DEAF535B04663FE2D582D01E2CEA094F",
+    "date": "2023-04-15",
     "version": "0.0.1",
-    "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-butler-0.0.1.jar?raw=true",
+    "url": "https://github.com/IAmAChildOfGod/plug4/tree/master/release/unethical-butler2-0.0.1.jar?raw=true",
     "requires": "^1.0.0"
   }]
 }, {
