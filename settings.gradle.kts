@@ -34,7 +34,7 @@ rootProject.name = "unethicalite-plugins"
 //include("hoot-karambwanfisher")
 
 include("unethical-fighter")
-include("unethical-butler")
+include("unethical-butler2")
 include("unethical-birdhouses")
 include("unethical-kebab-buyer")
 include("unethical-autologin")
